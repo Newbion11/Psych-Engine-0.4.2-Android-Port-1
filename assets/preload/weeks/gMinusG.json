@@ -1,0 +1,50 @@
+{
+	"storyName": "minus garcello / the misty dragon of ashton",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "MinusG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"headache-",
+			"gar",
+			[
+				155,
+				0,
+				195
+			]
+		],
+		[
+			"nerves-",
+			"gartired",
+			[
+				155,
+				0,
+				195
+			]
+		],
+		[
+			"release-",
+			"gardead",
+			[
+				155,
+				0,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Minus Garcello",
+	"hiddenUntilUnlocked": false
+}
