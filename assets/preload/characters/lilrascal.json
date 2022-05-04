@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lilrascal idle"
+		},
+		{
+			"offsets": [
+				100,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lilrascal left"
+		},
+		{
+			"offsets": [
+				93,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lilrascal right"
+		},
+		{
+			"offsets": [
+				91,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lilrascal up"
+		},
+		{
+			"offsets": [
+				78,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lilrascal down"
+		},
+		{
+			"offsets": [
+				90,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drinky",
+			"indices": [],
+			"name": "lilrascal drinky"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lilrascal",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lilrascal",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		32,
+		67
+	],
+	"camera_position": [
+		-30,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

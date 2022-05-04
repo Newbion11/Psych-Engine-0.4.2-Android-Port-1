@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MinusGar Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MinusGar Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MinusGar Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MinusGar Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				42
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MinusGar Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MinusGar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Gar",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		144
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

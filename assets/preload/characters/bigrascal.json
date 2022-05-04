@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bigrascal idle"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bigrascal up"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bigrascal left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bigrascal right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bigrascal down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bigrascal",
+	"position": [
+		0,
+		-250
+	],
+	"healthicon": "icon-bigrascal",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		24,
+		42
+	],
+	"camera_position": [
+		-160,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

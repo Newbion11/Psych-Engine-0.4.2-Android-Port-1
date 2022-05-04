@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "annie dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "annie retry",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "annie loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DrownDeath",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "anniedrowning",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		32,
+		67
+	],
+	"camera_position": [
+		-110,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

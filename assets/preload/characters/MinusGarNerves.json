@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				512,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MinusGarNerves Left"
+		},
+		{
+			"offsets": [
+				-79,
+				294
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MinusGarNerves Right"
+		},
+		{
+			"offsets": [
+				278,
+				400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MinusGarNerves Up"
+		},
+		{
+			"offsets": [
+				172,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MinusGarNerves Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "MinusGarNerves Cough",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MinusGarNerves Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MinusGarNerves",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Gartired",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		144
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

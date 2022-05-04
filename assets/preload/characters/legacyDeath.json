@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "legacy loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "legacy retry"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "legacy dies",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/legacyDeath",
+	"position": [
+		-580,
+		0
+	],
+	"healthicon": "bigrascal",
+	"flip_x": true,
+	"healthbar_colors": [
+		139,
+		24,
+		42
+	],
+	"camera_position": [
+		20,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

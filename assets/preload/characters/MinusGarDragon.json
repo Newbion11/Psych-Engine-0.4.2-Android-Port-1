@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				720,
+				241
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MinusGarDragon Left"
+		},
+		{
+			"offsets": [
+				155,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MinusGarDragon Right"
+		},
+		{
+			"offsets": [
+				285,
+				798
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MinusGarDragon Up"
+		},
+		{
+			"offsets": [
+				398,
+				408
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MinusGarDragon Down"
+		},
+		{
+			"offsets": [
+				427,
+				660
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "tightbars",
+			"indices": [],
+			"name": "MinusGarDragon coolguy"
+		},
+		{
+			"offsets": [
+				421,
+				256
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MinusGarDragon Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MinusGarDragon",
+	"position": [
+		-450,
+		0
+	],
+	"healthicon": "Gardead",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		144
+	],
+	"camera_position": [
+		-270,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
