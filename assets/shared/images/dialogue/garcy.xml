@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garcy.png">
+<SubTexture name="garcy chill0000" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0000" x="512" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0001" x="0" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0002" x="512" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0003" x="1024" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0004" x="1024" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0005" x="0" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0006" x="0" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0007" x="512" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy chill talk0008" x="0" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy thinker0000" x="1024" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0000" x="1536" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0001" x="1536" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0002" x="1536" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0003" x="0" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0004" x="512" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0005" x="1024" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0006" x="1536" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0007" x="2048" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy think talk0008" x="1024" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy teller0000" x="2048" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0000" x="2048" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0001" x="2048" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0002" x="0" y="2048" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0003" x="512" y="2048" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0004" x="1024" y="2048" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0005" x="1536" y="2048" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0006" x="2048" y="2048" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0007" x="2560" y="0" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy tell talk0008" x="2048" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy knower0000" x="2560" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0000" x="2560" y="1024" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0001" x="2560" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0002" x="2560" y="2048" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0003" x="0" y="2560" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0004" x="512" y="2560" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0005" x="2560" y="1536" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0006" x="1024" y="2560" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0007" x="1536" y="2560" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="garcy know talk0008" x="2560" y="512" width="512" height="512" frameX="0" frameY="0" frameWidth="512" frameHeight="512" />
+</TextureAtlas>
