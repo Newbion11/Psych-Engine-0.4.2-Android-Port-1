@@ -1,0 +1,76 @@
+{
+	"position": [
+		140,
+		-20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "garcyrel",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "think",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "garcy think talk",
+			"idle_name": "garcy thinker"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "know",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "garcy know talk",
+			"idle_name": "garcy knower"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "tell",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garcy teller",
+			"loop_name": "garcy tell talk"
+		},
+		{
+			"loop_name": "garcy silence",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garcy silence",
+			"anim": "silence",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "garcy chill talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "garcy default",
+			"anim": "chill",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
