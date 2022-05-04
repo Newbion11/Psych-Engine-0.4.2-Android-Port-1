@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MinusGarDip.png"><SubTexture name="MinusGarDip Idle0000" x="1374" y="4575" width="1442" height="1084" frameX="-9" frameY="-773" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0000" x="1374" y="4575" width="1442" height="1084" frameX="-9" frameY="-773" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0001" x="0" y="3365" width="1373" height="1210" frameX="-26" frameY="-647" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0002" x="0" y="3365" width="1373" height="1210" frameX="-26" frameY="-647" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0003" x="4528" y="1251" width="1294" height="1210" frameX="-46" frameY="-647" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0004" x="2446" y="3365" width="1294" height="1193" frameX="-46" frameY="-664" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0005" x="0" y="4575" width="1374" height="1109" frameX="-125" frameY="-742" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0006" x="2346" y="1935" width="1374" height="1251" frameX="-125" frameY="-600" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0007" x="2346" y="1935" width="1374" height="1251" frameX="-125" frameY="-600" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0008" x="4528" y="0" width="1295" height="1251" frameX="-131" frameY="-600" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0009" x="0" y="1935" width="1273" height="1430" frameX="-153" frameY="-421" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0010" x="1273" y="1935" width="1073" height="1430" frameX="-256" frameY="-421" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0011" x="1373" y="3365" width="1073" height="1203" frameX="-256" frameY="-648" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0012" x="1373" y="3365" width="1073" height="1203" frameX="-256" frameY="-648" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0013" x="3740" y="3365" width="1331" height="1121" frameX="-133" frameY="-814" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0014" x="3740" y="3365" width="1331" height="1121" frameX="-133" frameY="-814" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0015" x="3049" y="0" width="1479" height="1530" frameX="-90" frameY="-310" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0016" x="3049" y="0" width="1479" height="1530" frameX="-90" frameY="-310" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0017" x="1576" y="0" width="1473" height="1820" frameX="-84" frameY="0" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0018" x="1576" y="0" width="1473" height="1820" frameX="-84" frameY="0" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0019" x="2816" y="4575" width="1422" height="263" frameX="-135" frameY="-1555" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0020" x="3049" y="1530" width="1479" height="324" frameX="-72" frameY="-1494" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0021" x="3049" y="1530" width="1479" height="324" frameX="-72" frameY="-1494" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0022" x="4528" y="2728" width="1187" height="239" frameX="-61" frameY="-1579" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0023" x="4528" y="2728" width="1187" height="239" frameX="-61" frameY="-1579" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0024" x="4528" y="2728" width="1187" height="239" frameX="-61" frameY="-1579" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0025" x="4528" y="2728" width="1187" height="239" frameX="-61" frameY="-1579" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0026" x="4528" y="2461" width="1197" height="267" frameX="-123" frameY="-1549" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0027" x="4528" y="2461" width="1197" height="267" frameX="-123" frameY="-1549" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0028" x="0" y="0" width="1576" height="1935" frameX="0" frameY="0" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0029" x="0" y="0" width="1576" height="1935" frameX="0" frameY="0" frameWidth="1576" frameHeight="1935" />
+<SubTexture name="MinusGarDip Dip0030" x="0" y="0" width="1576" height="1935" frameX="0" frameY="0" frameWidth="1576" frameHeight="1935" />
+</TextureAtlas>

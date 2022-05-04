@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MinusGarcello.png"><SubTexture name="MinusGarcello Down0000" x="1565" y="1999" width="430" height="601" frameX="-32" frameY="-115" frameWidth="513" frameHeight="747" />
+<SubTexture name="MinusGarcello Down0001" x="2425" y="1999" width="427" height="591" frameX="-32" frameY="-126" frameWidth="513" frameHeight="747" />
+<SubTexture name="MinusGarcello Down0002" x="3105" y="591" width="427" height="587" frameX="-32" frameY="-130" frameWidth="513" frameHeight="747" />
+<SubTexture name="MinusGarcello Down0003" x="3105" y="0" width="427" height="591" frameX="-32" frameY="-126" frameWidth="513" frameHeight="747" />
+<SubTexture name="MinusGarcello Down0004" x="1995" y="1999" width="430" height="601" frameX="-32" frameY="-115" frameWidth="513" frameHeight="747" />
+<SubTexture name="MinusGarcello Idle0000" x="924" y="676" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0001" x="1634" y="1342" width="396" height="655" frameX="-21" frameY="-22" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0002" x="2586" y="1310" width="395" height="645" frameX="-22" frameY="-32" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0003" x="2190" y="0" width="396" height="655" frameX="-21" frameY="-22" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0004" x="924" y="676" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0005" x="1398" y="0" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0006" x="1398" y="660" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0007" x="1794" y="0" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0008" x="1398" y="660" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Idle0009" x="1398" y="660" width="396" height="660" frameX="-21" frameY="-16" frameWidth="463" frameHeight="687" />
+<SubTexture name="MinusGarcello Left0000" x="2586" y="0" width="519" height="655" frameX="-16" frameY="-70" frameWidth="557" frameHeight="747" />
+<SubTexture name="MinusGarcello Left0001" x="0" y="1999" width="521" height="655" frameX="-10" frameY="-70" frameWidth="557" frameHeight="747" />
+<SubTexture name="MinusGarcello Left0002" x="521" y="1999" width="523" height="655" frameX="-5" frameY="-70" frameWidth="557" frameHeight="747" />
+<SubTexture name="MinusGarcello Left0003" x="1044" y="1999" width="521" height="655" frameX="-10" frameY="-70" frameWidth="557" frameHeight="747" />
+<SubTexture name="MinusGarcello Left0004" x="2586" y="655" width="519" height="655" frameX="-16" frameY="-70" frameWidth="557" frameHeight="747" />
+<SubTexture name="MinusGarcello Right0000" x="1794" y="660" width="395" height="657" frameX="-41" frameY="-35" frameWidth="471" frameHeight="711" />
+<SubTexture name="MinusGarcello Right0001" x="0" y="1342" width="408" height="657" frameX="-45" frameY="-35" frameWidth="471" frameHeight="711" />
+<SubTexture name="MinusGarcello Right0002" x="408" y="1342" width="414" height="657" frameX="-47" frameY="-35" frameWidth="471" frameHeight="711" />
+<SubTexture name="MinusGarcello Right0003" x="822" y="1342" width="417" height="657" frameX="-45" frameY="-35" frameWidth="471" frameHeight="711" />
+<SubTexture name="MinusGarcello Right0004" x="1239" y="1342" width="395" height="657" frameX="-41" frameY="-35" frameWidth="471" frameHeight="711" />
+<SubTexture name="MinusGarcello Up0000" x="0" y="676" width="462" height="666" frameX="-11" frameY="-55" frameWidth="495" frameHeight="741" />
+<SubTexture name="MinusGarcello Up0001" x="466" y="0" width="466" height="672" frameX="-11" frameY="-49" frameWidth="495" frameHeight="741" />
+<SubTexture name="MinusGarcello Up0002" x="0" y="0" width="466" height="676" frameX="-11" frameY="-45" frameWidth="495" frameHeight="741" />
+<SubTexture name="MinusGarcello Up0003" x="932" y="0" width="466" height="672" frameX="-11" frameY="-49" frameWidth="495" frameHeight="741" />
+<SubTexture name="MinusGarcello Up0004" x="462" y="676" width="462" height="666" frameX="-11" frameY="-55" frameWidth="495" frameHeight="741" />
+</TextureAtlas>
